@@ -1,0 +1,2 @@
+# Substrings
+Ruby small project
